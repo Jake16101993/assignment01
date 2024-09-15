@@ -1,5 +1,4 @@
 git clone https://github.com/ian-knight-uofa/git-practice-03.git
-cd git-practice-03
 
 git checkout main
 mkdir dir1
